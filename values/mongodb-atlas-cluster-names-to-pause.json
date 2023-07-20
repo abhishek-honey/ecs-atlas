@@ -1,0 +1,7 @@
+{
+    "name": "mongodb-atlas-cluster-names-to-pause",
+    "value": [
+        "Cluster0"
+    ],
+    "from_secret": false
+}

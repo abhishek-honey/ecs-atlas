@@ -1,0 +1,7 @@
+{
+    "name": "ecs-desired-task-count",
+    "value": {
+        "$numberInt": "4"
+    },
+    "from_secret": false
+}
